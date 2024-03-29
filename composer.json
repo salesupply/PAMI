@@ -1,5 +1,5 @@
 {
-  "name": "level23/pami",
+  "name": "salesupply/pami",
   "type": "library",
   "description": "Asterisk Manager Interface (AMI) client for PHP, event driven, object oriented",
   "keywords": [
